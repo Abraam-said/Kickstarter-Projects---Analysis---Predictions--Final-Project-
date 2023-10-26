@@ -2,6 +2,7 @@
 import joblib
 import streamlit as st
 import pandas as pd
+import sklearn
 
 Model = joblib.load("Model_Final.pkl")
 Inputs = joblib.load("Inputs_Final.pkl")
