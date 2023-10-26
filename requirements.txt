@@ -7,7 +7,6 @@ matplotlib==3.4.3
 
 # Data Preprocessing Libraries
 datasist==1.5
-sklearn==1.2.2
 category-encoders==2.2.2
 imbalanced-learn==0.8.1
 
