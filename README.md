@@ -6,7 +6,7 @@ Kickstarter, founded in 2009, has transformed the landscape of crowdfunding by p
 
 # Libraries Used
 ## EDA (Exploratory Data Analysis) Libraries
-pandas
+- pandas
 numpy
 plotly.express
 plotly.figure_factory
@@ -43,7 +43,8 @@ sklearn.model_selection (GridSearchCV)
 ## Model Deployment Libraries
 joblib
 streamlit
-Purpose
+
+# Purpose
 The purpose of this project is to assist creators on Kickstarter by predicting the success of their projects before they are launched. By leveraging a variety of machine learning models and data preprocessing techniques, this analysis aims to provide valuable insights that enhance the probability of a project's success.
 
 # How to Use
