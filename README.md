@@ -7,14 +7,14 @@ Kickstarter, founded in 2009, has transformed the landscape of crowdfunding by p
 # Libraries Used
 ## EDA (Exploratory Data Analysis) Libraries
 - pandas
-numpy
-plotly.express
-plotly.figure_factory
-plotly.subplots
-plotly.graph_objects
-seaborn
-matplotlib.pyplot
-pycountry
+- numpy
+- plotly.express
+- plotly.figure_factory
+- plotly.subplots
+- plotly.graph_objects
+- seaborn
+- matplotlib.pyplot
+- pycountry
 
 ## Data Preprocessing Libraries
 datasist.structdata
