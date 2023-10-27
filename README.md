@@ -1,6 +1,9 @@
 # Kickstarter Projects - Analysis + Predictions (Final Project)
 
 ## Kickstarter Project Success Prediction
+
+### **Dataset Link**: [https://kickstarter-project-success-predictor.streamlit.app/](https://www.kaggle.com/datasets/kemical/kickstarter-projects?select=ks-projects-201801.csv)
+
 ### Overview
 Kickstarter, founded in 2009, has transformed the landscape of crowdfunding by providing a platform for creators to connect with supporters globally. This analysis delves into Kickstarter projects, focusing on predicting their success before launch. This predictive insight empowers creators, ensuring their ideas have a higher likelihood of success from the outset.
 
