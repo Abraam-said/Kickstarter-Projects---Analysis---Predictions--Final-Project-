@@ -53,3 +53,5 @@ The purpose of this project is to assist creators on Kickstarter by predicting t
 - Model Selection: Experiment with different classification models provided in the analysis to choose the most suitable one for the specific Kickstarter project.
 - Model Evaluation: Evaluate the selected model's performance using metrics such as accuracy, F1 score, and ROC AUC score.
 - Deployment: Deploy the chosen model using the provided model deployment libraries for real-time predictions.
+
+ ## **App link**: https://kickstarter-project-success-predictor.streamlit.app/
